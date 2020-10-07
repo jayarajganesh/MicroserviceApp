@@ -19,4 +19,4 @@ You will need the following tools:
 
       docker-compose -f docker-compose.yml -f docker-compose.override.yml up –d
 
-- Launch the microservice -> http://localhost:8000/swagger/index.html
+- Launch the catalog microservice -> http://localhost:8000/swagger/index.html
