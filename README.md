@@ -1,5 +1,5 @@
 ## Project title
-The overall goal of this project is to create a eCommerce website using micro service architecture. As a first step I created catalog API which displays products in the website. I have also performed a simple CRUD operations on Catalog API.
+The overall goal of this project is to create an eCommerce website using microservice architecture. As a first step, I created a catalog API that displays products on the website. I have also performed simple CRUD operations on Catalog API.
 
 ## Technology used
 - C#
